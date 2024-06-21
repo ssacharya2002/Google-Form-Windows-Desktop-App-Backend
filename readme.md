@@ -12,7 +12,7 @@
 
    ```bash
    git clone https://github.com/ssacharya2002/Google-Form-Windows-Desktop-App-Backend
-   cd backend
+   cd Google-Form-Windows-Desktop-App-Backend
    ```
 
 
