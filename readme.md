@@ -33,7 +33,7 @@
     ```
 2. **Accessing the API:**
 
- Once the server is running, you can access the API endpoints:
+ Once the server is running, you can access the API endpoints at http://localhost:3000:
 
 * GET /ping: Checks if the server is running.
   
